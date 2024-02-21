@@ -1,0 +1,6 @@
+name: cryouxn
+version: 0.1.0
+
+targets:
+  cryouxn:
+    main: src/cryouxn.cr
